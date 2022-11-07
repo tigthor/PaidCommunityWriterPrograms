@@ -71,7 +71,10 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Neptune](https://neptune.ai/write-for-us) - Up to $500 per article. 
   > Technical articles, how-to guides and tutorials on machine learning and data science. 
-
+ 
+- [Nimblebox.ai](https://nimblebox.ai/technical-writer-program) - $50+ per article.
+  > The NimbleBox Technical Writer Program is a way for you to support the future of MLOps by writing technical articles.
+  
 - [Okta](https://developer.okta.com/blog) - Paid through Toptal based on your hourly rate
   > Technical tutorials and demos using Okta's products.
 
