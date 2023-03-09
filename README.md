@@ -125,8 +125,8 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Tutorialspoint](https://www.tutorialspoint.com/about/tutorials_writing.htm) - Up to $500 per piece
   > In-depth tutorials on technical and business topics.
 
-- [Twilio](https://go.twilio.com/twilio-voices/) - Up to $500 per piece
-  > Technical tutorials with code. Doesn't necessarily have to use Twilio.
+- [Twilio](https://www.twilio.com/voices) - $650 per piece
+  > Technical tutorials that focuses on encouraging developers to build the future of communications.
   
 - [Vonage](https://developer.nexmo.com/spotlight/) - $500 per piece
   > Technical tutorials and general pieces on programming
