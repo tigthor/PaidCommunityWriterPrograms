@@ -34,6 +34,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Digital Ocean](https://www.digitalocean.com/write-for-donations/) - Up to $400 per piece
   > Technical tutorials with code. Not limited to Digital Ocean products.
 
+- [Dolby.io](https://dolby.io/blog/introducing-the-dolby-io-community-writing-program/) - Up to $500 per piece
+  > Technical tutorials utilizing the Dolby.io APIs.
+
 - [Draft](https://draft.dev/#write) - Pays $200-$400 per piece
   > Technical content production agency that works with many clients.
   
