@@ -93,6 +93,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Section.io](https://github.com/section-io/engineering-education)
   > Engineering education blog where Computer Science university students may contribute content for pay.
 
+- [SigNoz](https://signoz.io/technical-writer-program/) - $150 per article
+  > Product tutorials related to SigNoz, and technical content related to topics in our domain like opentelemetry, distributed tracing, application performance monitoring, etc.
+
 - [SitePoint](https://sitepoint.typeform.com/to/DMmYfn) - $250 per article
   > Broad coverage of development, design and the business ideas behind them. The JavaScript and PHP channels have the best traffic.
 
