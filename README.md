@@ -81,6 +81,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Okta](https://developer.okta.com/blog) - Paid through Toptal based on your hourly rate
   > Technical tutorials and demos using Okta's products.
 
+- [Permit.io](https://io.permit.io/permit-content) - $400 per published article
+  >  Implement Permit.io into a demo application of your choice, create a piece of content about it, and get paid!
+
 - [PHP Architect](https://www.phparch.com/editorial/write-for-us/) - $175 per piece
   > Thought leadership and technical articles about PHP.
 
